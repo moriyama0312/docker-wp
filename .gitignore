@@ -1,0 +1,4 @@
+docker/db/db_data
+
+webroot/app/.htaccess
+webroot/app/wp-config.php
